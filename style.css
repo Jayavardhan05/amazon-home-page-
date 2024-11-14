@@ -15,8 +15,7 @@
     height: 50px;
     width: 113px;
  }
- .logo{
-   background-image: url("amazon/amazon_logo.png");
+ .logo img{
    background-size: cover;
     height: 50px;
     width: 100%;
@@ -185,7 +184,7 @@ ul a{
    border-top: 0.5 solid white;
 height: 70px;
 }
-.logo-img img{
+.logo1-img img{
    background-size: cover;
     max-width: 150%;
     height: 80px;
