@@ -115,6 +115,8 @@ font-size: 30px;
  .hero-section img{
   display: block;
   margin: 0;
+  max-width: 100%;
+  height: auto;
 }
 .box-section{
    display: flex;
@@ -135,6 +137,8 @@ font-size: 30px;
    width:300px;
    margin-top: 1rem;
    margin-bottom:1rem;
+   max-width: 100%;
+   max-height: auto;
 }
 .box-content
 {
