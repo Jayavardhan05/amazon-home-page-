@@ -185,8 +185,10 @@ ul a{
    border-top: 0.5 solid white;
 height: 70px;
 }
-.logo img{
+.logo-img img{
    background-size: cover;
-    height: 50px;
-    width: 100%;
+    max-width: 150%;
+    height: 80px;
+    position: absolute;
+    left: 45%;
 }
